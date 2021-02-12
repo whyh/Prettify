@@ -37,7 +37,7 @@ Configure your external tool the following way
 
 ![](../assets/PyCharm_external_tools.png)
 
-Select file/folder in the project view or start editing a file, open right mouse klick menue and choose prettify
+Now select file/folder in the project view or start editing a file, open right mouse klick menue and choose prettify
 
 ### PyCharm shortcut
 Configure your shortcut the following way
